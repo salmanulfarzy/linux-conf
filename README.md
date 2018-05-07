@@ -1,19 +1,19 @@
 ## GNOME Settings
 
-Theme : Adapta
-Icons : Flat Remix
-Cursor : DMZ-Whote
-Shell theme : Adapta
+- Theme : Adapta
+- Icons : Flat Remix
+- Cursor : DMZ-White
+- Shell theme : Adapta
 
 ### Fonts
 
-Windows Titles : Roboto Condensed Regulat 11
-Interface : Roboto Regular 10
-Docuements : Sans Regular 11
-Monospace : Noto Mono REgular 10
+- Windows Titles : Roboto Condensed Regulat 11
+- Interface : Roboto Regular 10
+- Docuements : Sans Regular 11
+- Monospace : Noto Mono REgular 10
 
-Terminal Color Scheme :  [Base 16 Tomorrow Night 256](https://github.com/aaron-williamson/base16-gnome-terminal/blob/master/color-scripts/base16-tomorrow-night-256.sh)
-Font : DejaVu Sans Mono NerdBook Font 10pt
+- Terminal Color Scheme :  [Base 16 Tomorrow Night 256](https://github.com/aaron-williamson/base16-gnome-terminal/blob/master/color-scripts/base16-tomorrow-night-256.sh)
+- Font : DejaVu Sans Mono NerdBook Font 10pt
 
 ## GNOME Extensions
 
